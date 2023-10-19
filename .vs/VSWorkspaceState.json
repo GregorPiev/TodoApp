@@ -1,12 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\src",
-    "\\src\\app",
-    "\\src\\app\\components",
-    "\\src\\app\\components\\deleted-todo",
-    "\\src\\app\\models",
-    "\\src\\app\\services"
+    ""
   ],
   "PreviewInSolutionExplorer": false
 }
